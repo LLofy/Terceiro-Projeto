@@ -1,0 +1,61 @@
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;	
+	background-color: #000;
+}
+
+.imagem{
+	height: 99.5%;
+	width: 1360px;
+	background-image: url('../img/fundo.jpg');
+	background-size: cover;	
+  	border: 1px solid darkgray;
+}
+
+.logo{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.ox{
+  	padding: 5px;
+  	width: 30px;
+}
+
+.caixa1{
+	position: absolute;
+	font-size: 30px;
+	left: 1080px;
+	top: 260px;
+	color: red;
+}
+
+.caixa2{
+	position: absolute;
+	font-size: 14px;
+	left: 1080px;
+	top: 320px;
+	color: #FFF;
+}
+
+.redes-sociais{
+	position: absolute;
+	font-size: 40px;
+	left: 1080px;
+	top: 400px;
+	color: #FFF;	
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
